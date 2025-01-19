@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Olá, Eu sou Guilherme de Araujo!
 
-<!--
-**gui93araujo/gui93araujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :man_technologist: Sobre mim
+- 💻 Atualmente Desenvolvedor Delphi,
+- 💻 Buscando aprimorar conhecimento para me tornar Full Stack.
+- 🎓 Formação: Bacharel e Sistemas de Informação 
+- 🌍 Localização: Francisco Beltrão - Pr.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagens**: HTML, CSS, JavaScript, SQL, Delphi.
+- **Ferramentas**: VSCode, Git.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Como me encontrar
+- LinkedIn: [https://www.linkedin.com/in/guilherme-araujo9/](https://www.linkedin.com/in/guilherme-araujo9/)
+- Email: [gui93araujo@gmail.com](mailto:gui93araujo@gmail.com)
