@@ -6,7 +6,7 @@
 - 🌍 Localização: Francisco Beltrão - Pr.
 
 ## :books: Estudos
-- **Linguagens**: HTML, CSS, JavaScript, React, Next, Taiwindcss.
+- **Linguagens**: HTML, CSS, JavaScript, React.js, Next.js e Taiwindcss.
 
 ## 📫 Como me encontrar
 - LinkedIn: [https://www.linkedin.com/in/guilherme-araujo9/](https://www.linkedin.com/in/guilherme-araujo9/)
