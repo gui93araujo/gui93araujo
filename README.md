@@ -1,8 +1,7 @@
 ## 👋 Olá, eu sou Guilherme Araujo
 
-<p align="center">
-  Desenvolvedor Pleno Delphi com mais de 6 anos de experiência em sistemas empresariais, estudando Frontend moderno por conta própria.
-</p>
+Desenvolvedor Pleno Delphi com mais de 6 anos de experiência em sistemas empresariais, estudando Frontend moderno por conta própria.
+
 
 ---
 
